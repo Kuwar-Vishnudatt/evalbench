@@ -1,0 +1,7 @@
+[
+  {"id": "c1", "question": "What is the capital of France", "reference": "Paris is the capital of France, famous for the Eiffel Tower."},
+  {"id": "c2", "question": "What is the tallest mountain", "reference": "Mount Everest is the tallest mountain, located in the Himalayas."},
+  {"id": "c3", "question": "What is photosynthesis", "reference": "Photosynthesis converts sunlight into chemical energy in plants."},
+  {"id": "c4", "question": "What is the Great Wall of China", "reference": "The Great Wall of China is a series of fortifications in northern China."},
+  {"id": "c5", "question": "What is the speed of light", "reference": "The speed of light is about 299,792 km per second."}
+]

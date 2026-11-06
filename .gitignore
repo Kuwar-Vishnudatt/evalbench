@@ -1,0 +1,6 @@
+bin/
+*.log
+*.db
+*.db-wal
+*.db-shm
+run.json
